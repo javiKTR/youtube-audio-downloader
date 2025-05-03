@@ -1,0 +1,4 @@
+mutagen==1.47.0
+pytube==15.0.0
+pytubefix==6.7.0
+yt-dlp==2025.4.30
