@@ -3,6 +3,7 @@ import os
 import time
 from pathlib import Path
 from datetime import timedelta
+import sys
 
 class SilentLogger:
     """Clase para silenciar los logs de yt-dlp"""
